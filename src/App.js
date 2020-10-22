@@ -1,8 +1,7 @@
 import React from 'react';
 import NavBar from './components/navBar/NavBar';
 import './index.css';
-import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
-import Home from './components/mainContent/Home';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import HomePage from './components/pages/HomePage';
 import Courses from './components/pages/Courses';
 import Footer from './components/footer/Footer';
